@@ -106,5 +106,5 @@ Yeah, he’d need to find some other clothing. Right now Kyren was going to stic
 
 It was time to start walking into the sun. Not at all sure what was going to happen, but an adventure awaited him nonetheless.
 
-Tristan wryly smiled, watching Kyren from the distance. Seemed like the new OutLander had his head on his shoulders. He’d let him rest for awhile. Rive wasn’t the worst place to start. He’d had to start in the Empire of Khusa. That was definitely not the best experience. Nazarick. Now that was an entirely different story.
+Tristan wryly smiled, watching Kyren from the distance. Seemed like the new OutLander had his head on his shoulders. He’d let him rest for awhile. Rive wasn’t the worst place to start. He’d had to start in the Empire of Khusa. That was definitely not the best experience. Nazarick. Now that was an entirely different story..
 
