@@ -1,17 +1,35 @@
 ---
-title: "Pause"
+title: "A Salient Pause"
 --- 
  
-Hi. I’m Linus and I’m twenty-three years old. In some people’s eyes, I’m the crust that they rub out in the morning as they wake up to live their highly successful lives. But in other people's eyes, i’m a boyfriend, an employee, a college graduate, a son and a friend. I can choose to define myself and be defined by so many ways. 
+“Tortoise School applications?” The turtle asked in surprise. “I’ve been a turtle for sixteen years and now you want me to be a tortoise?”
 
+“Yes,” said Father Turtle. “If you get into Tortoise school, you’ll be able to work for TortoiseSoft or Toortle or maybe even TortleBook!” Father Turtle said
 
-I digress.
+“I hear they give the tortoises a free pellet, a new shell and possibly a pear!” 
 
-I write because I want to write. I love because I want to love. That's why I do these things.
+“But I don’t need a new shell,” Turtle responded, “I like my current shell.” 
 
-I think the nuance here is now that I need to figure out who we are going forward. There's a lot of vitriol that comes from trying to make sure that other people understand ethnic culture and background. One of the funniest moments I had was my boss asking me if I understood what the wedding toss was during the reception. There's a lot of interesting things that happened and continue to happen and it's kind of up to us to determine what's legitamite and what's not. 
+“Don’t be silly,” said Father Turtle. “I had to travel a long way to make sure that you had an opportunity at a pear, I don’t want you to throw it away.” Father Turtle continued, “Look at your brother. He didn’t get into Stanford, but USC with a scholarship was good enough. He has a new shell and everything.”
 
-I realize that it's tough. It's really tough. The world outside is kind of cold, dark and for many people just overbearing and overwhelming. 
+“I guess you’re right,” Turtle said, thinking about Cousin Vinny who’d gone to a god-forbid, liberal-arts public university. Cousin Vinny didn’t have a new shell. In fact, he barely had a shell to speak off. 
 
-I simply hope that this provides a little breath of air. 
+“What do I need to do for Tortoise School?” Turtle asked.
 
+Father Turtle already had everything laid out for him. 
+
+“Well, first things first, we need to make sure you take your AP classes. Maybe get you into some SAT preparatory schools and we definitely need to shore up your extracurriculars.” He said, extremely businesslike. 
+
+“I’d say that there might need to be some work done on your volunteer activities as well.” Father Turtle said, pushing his glasses up. 
+
+Turtle wasn’t exactly thrilled about all this. 
+
+“How will I have time to hang out with Vinny and Jake?” Turtle asked, thinking about all the time he’d miss with his friends.
+
+“They can join you!” Father Turtle said. 
+
+“But they won’t want to.” said Turtle, sadly realizing that Jake wouldn’t want to hang out with him in SAT preparatory school. 
+
+“You’ll make new friends.” Father Turtle said. 
+
+It wasn’t very comforting. 
