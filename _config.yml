@@ -23,7 +23,6 @@ navigation:                  # (optional) site navigation in the header
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:layjchan@gamil.com"
   github: "https://github.com/linuxbo"
-  rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
@@ -31,7 +30,7 @@ comments:                    # embed disqus or isso comments
 
 remote_theme: niklasbuschmann/contrast
 
-plugins: 
+plugins:
  - jekyll-feed
  - jekyll-paginate
  - jekyll-default-layout
