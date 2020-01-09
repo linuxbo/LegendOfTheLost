@@ -4,7 +4,7 @@ title: "I'm a Technical Writer"
 
 Lately, [I've been reading a lot lately on what Technical Writing is as a profession.](https://mkaz.blog/misc/notes-on-technical-writing/)
 
-After perusing through the comments, I heard that all technical writing should follow the *black triangle* method, or the Agile method, or be horrified with existential fear over how it's *inherently a waterfall* approach in an agile world.
+After perusing through the comments, I've heard that all technical writing should follow the *black triangle* method, or the Agile method, or be horrified with existential fear over how it's *inherently a waterfall* approach in an agile world.
 
 So, I'm going to lay all my cards on the table.
 
@@ -37,9 +37,7 @@ We're the people who come first, hat in hand, asking someone for help.
 
 Then, we turned around and helped anyone else with questions.
 
-It's a desire to help, not a methodology.
-
-For those who are masters of their craft, it's a feeling that is often forgotten. But I think it's important to remember how it feels.
+__It's a desire to help__, not a methodology.
 
 [aside] See what I did there? I'm part of your friend group now.
 
