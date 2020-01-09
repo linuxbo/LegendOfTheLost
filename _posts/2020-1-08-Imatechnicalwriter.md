@@ -1,5 +1,5 @@
 ---
-title: "On Technical Writing"
+title: "I'm a Technical Writer"
 ---
 
 Lately, [I've been reading a lot lately on what Technical Writing is as a profession.](https://mkaz.blog/misc/notes-on-technical-writing/)
