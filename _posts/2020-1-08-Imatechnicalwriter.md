@@ -27,7 +27,7 @@ It is not a team of QA folks who are trying to cozy up with Product management.
 
 It is not a group of English majors who are looking to break into tech.
 
-Sure, I think that there are facets of the technical writing crystal where shards of the aforementioned examples can be true. Places where Bruenors or Drizz'ts need to fight against insidious whispers of corporate morass.
+Sure, I think that there are facets of the technical writing crystal where shards of the aforementioned examples can be true. Places where Bruenors or Drizzts need to fight against insidious whispers of corporate morass.
 
 But I'd hope that one faulty dependency doesn't invalidate the entire stack.
 

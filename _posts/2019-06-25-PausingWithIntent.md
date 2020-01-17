@@ -2,6 +2,7 @@
 title: "Breathe"
 ---
 There's this concept where people go around and seemingly say, "This is not my problem."
+
 It's kind of a tough thing to run across, especially as we see it reflected in the things that we care the most about. The people that we care about, the projects that we labor for a long time on and most importantly, the feelings that we have.
 
 I think that it is important to recognize that the things around us are our problems. There's a place where we recognize that we need to sit down, open our hearts and our minds to contributing to a cause that honestly might not even fully succeed.
