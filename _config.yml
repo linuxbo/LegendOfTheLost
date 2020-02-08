@@ -21,7 +21,7 @@ navigation:                  # (optional) site navigation in the header
   - index.html
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:layjchan@gamil.com"
+  envelope: "mailto:layjchan@gmail.com"
   github: "https://github.com/linuxbo"
 
 comments:                    # embed disqus or isso comments
