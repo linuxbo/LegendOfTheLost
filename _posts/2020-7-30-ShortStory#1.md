@@ -4,7 +4,7 @@ title: "ShortStory#1"
 ---
 
 
-##Best Way to start a story is with a the
+## Best Way to start a story is with a the
 
 It started out as a joke. It would soon be a law, he knew, but just for the record, it was important to understand that it was a joke.
 
