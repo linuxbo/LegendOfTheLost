@@ -1,0 +1,4 @@
+---
+title: "ShortStory#1"
+
+---
